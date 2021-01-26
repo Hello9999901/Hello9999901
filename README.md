@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-###I'm Byran and I like to do stuff  💻 
+### I'm Byran and I like to do stuff  💻 
 
-###Stuff I can do but not really but kinda I guess:
+### Stuff I can do but not really but kinda I guess:
 
 * https://www.byran.tech
 * Blender 3D
