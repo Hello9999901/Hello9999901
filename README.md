@@ -9,8 +9,7 @@
 * ### https://www.byran.tech 
 * ### macOS PowerUser
 * ### Blender 3D
-  - #### Animation
-  - #### Rigging
+  - #### Animation and Rigging
   - #### Hard-Surface Modeling
   - #### Motion Tracking
 * ### Unity C# and Game Dev
