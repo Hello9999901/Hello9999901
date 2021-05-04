@@ -8,16 +8,22 @@
 
 * ### https://www.byran.tech 
 * ### macOS PowerUser
+* ### Languages (ranked by skill level):
+  - #### Python
+  - #### HTML
+  - #### CSS
+  - #### JavaScript
+  - #### BASH
+  - #### C++/C#
+  - #### C
+  - #### Swift
 * ### Blender 3D
-  - #### Animation and Rigging
-  - #### Hard-Surface Modeling
+  - #### Modeling and CG
   - #### Motion Tracking
+  - #### Animation and Rigging 
 * ### Unity C# and Game Dev
-* ### XCode
 * ### Open Source Developer
-  - #### Free and Open Source is the best type of software
-* ### VSCode Insiders (Dracula Theme)
-* ### 192 WPM Burst Typing
-* ### 3/4 Stack Developer
+  - #### F.O.S.S. is the best
+* ### 150+ WPM Typing Speed
 * ### Linux Admin
 
