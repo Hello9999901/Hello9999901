@@ -26,4 +26,8 @@
   - #### F.O.S.S. is the best
 * ### 180+ WPM Typing Speed
 * ### Linux Admin
+   - ### Ubuntu
+   - ### Raspberry Pi OS
+   - ### Arch Linux
+   - ### Kali Linux
 
