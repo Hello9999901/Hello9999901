@@ -24,6 +24,6 @@
 * ### Unity C# and Game Dev
 * ### Open Source Developer
   - #### F.O.S.S. is the best
-* ### 150+ WPM Typing Speed
+* ### 180+ WPM Typing Speed
 * ### Linux Admin
 
