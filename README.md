@@ -5,7 +5,9 @@
 ##### Stuff I can do but not really but kinda I guess (and about me):
 
 * https://www.byran.tech 
+
 * macOS PowerUser
+
 * Languages (ranked by skill level):
   - ```Python```
   - ```HTML```
@@ -17,15 +19,17 @@
   - ```Swift```
 * Blender 3D
   - Modeling and CG
-  - Motion Tracking
-  - Animation and Rigging 
+  - Animation and Rigging
+
 * Unity C# and Game Dev
-* Open Source Developer
-  - F.O.S.S. is the best
+
+* Open Source Dev
+
 * 180+ WPM Typing Speed
+
 * Linux Admin
    - Ubuntu
-   - Raspberry Pi OS
-   - Arch Linux
-   - Kali Linux
+   - OpenMediaVault
+   - LAMP Setup
+   - Raspberry Pi
 
