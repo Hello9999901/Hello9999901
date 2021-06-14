@@ -2,7 +2,7 @@
 
 ### I'm Byran and I like to do stuff  💻 
 
-### Stuff I can do but not really but kinda I guess (and about me):
+#### Stuff I can do but not really but kinda I guess (and about me):
 
 * https://www.byran.tech 
 
