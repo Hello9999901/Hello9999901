@@ -4,9 +4,11 @@
 
 #### Stuff I can do but not really but kinda I guess (and about me):
 
-* https://www.byran.tech 
+* Creator and Maintainer of https://www.byran.tech
+  - Fully hand-crafted(typed)
+  - Utilizing latest web dev layouts (work in progress)
 
-* macOS PowerUser
+* ```macOS``` PowerUser
 
 * Languages (ranked by skill level):
   - ```Python```
@@ -17,19 +19,19 @@
   - ```C++/C#```
   - ```C```
   - ```Swift```
+
 * Blender 3D
   - Modeling and CG
   - Animation and Rigging
 
-* Unity C# and Game Dev
+* Unity Game Dev
 
-* Open Source Dev
+* Open Source
 
-* 180+ WPM Typing Speed
+* Speed Typing
 
 * Linux Admin
-   - Ubuntu
-   - OpenMediaVault
-   - LAMP Setup
-   - Raspberry Pi
-
+   - ```Ubuntu```
+   - ```OpenMediaVaul```t
+   - ```![LAMP Stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) Setup```
+   - ```Raspberry Pi```
