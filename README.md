@@ -33,5 +33,5 @@
 * Linux Admin
    - ```Ubuntu```
    - ```OpenMediaVaul```t
-   - ```![LAMP Stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) Setup```
+   - ```Lamp Stack```
    - ```Raspberry Pi```
