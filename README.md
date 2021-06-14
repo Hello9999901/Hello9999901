@@ -32,6 +32,6 @@
 
 * Linux Admin
    - ```Ubuntu```
-   - ```OpenMediaVaul```t
+   - ```OpenMediaVaul```
    - ```Lamp Stack```
    - ```Raspberry Pi```
