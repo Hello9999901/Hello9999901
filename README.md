@@ -17,8 +17,6 @@
   - ```JavaScript```
   - ```BASH```
   - ```C++/C#```
-  - ```C```
-  - ```Swift```
 
 * Blender 3D
   - Modeling and CG
