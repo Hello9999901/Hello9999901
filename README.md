@@ -16,7 +16,7 @@
   - ```CSS```
   - ```JavaScript```
   - ```BASH```
-  - ```C++/C#```
+  - ```Learning Java```
 
 * Blender 3D
   - Modeling and CG
