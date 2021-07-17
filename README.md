@@ -29,7 +29,9 @@
 * Speed Typing
 
 * Linux Admin
-   - ```Ubuntu```
-   - ```OpenMediaVaul```
+   - ```Ubuntu and Pop!_OS```
+   - ```Samba```
+   - ```NFS```
+   - ```OpenMediaVault```
    - ```Lamp Stack```
    - ```Raspberry Pi```
