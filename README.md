@@ -5,8 +5,17 @@
 #### Stuff I can do but not really but kinda I guess (and about me):
 
 * Creator and Maintainer of https://www.byran.tech
-  - Fully hand-crafted(typed)
-  - Utilizing latest web dev layouts (work in progress)
+  - Fully hand-crafted
+  - Utilizes the latest web dev techniques and technologies
+
+* Creator and Maintainer of https://www.artstudio23.org
+  - Fully hand-crafted
+  - Utilizes the latest web dev techniques and technologies
+
+* Creator and Maintainer of https://cdn.byran.tech
+
+* Creator and Maintainer of https://uviteos.byran.tech
+  - Don't look at it, it is badly-made
 
 * ```macOS``` PowerUser
 
