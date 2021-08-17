@@ -19,6 +19,8 @@
 
 * ```macOS``` PowerUser
 
+* CAD & PCB Design
+
 * Languages (ranked by skill level):
   - ```Python```
   - ```HTML```
