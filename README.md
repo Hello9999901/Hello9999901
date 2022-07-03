@@ -8,41 +8,32 @@
   - Fully hand-crafted
   - Utilizes the latest web dev techniques and technologies
 
-* Creator and Maintainer of https://www.artstudio23.org
-  - Fully hand-crafted
-  - Utilizes the latest web dev techniques and technologies
-
-* Creator and Maintainer of https://cdn.byran.tech
-
-* Creator and Maintainer of https://uviteos.byran.tech
-  - Don't look at it, it is badly-made
-
 * ```macOS``` PowerUser
 
 * CAD & PCB Design
+  - FreeCAD
+  - KiCAD
+  - Wireless communication and power delivery
 
 * Languages (ranked by skill level):
   - ```Python```
   - ```HTML```
   - ```CSS```
-  - ```JavaScript```
+  - ```Java```
   - ```BASH```
-  - ```Learning Java```
+  - ```JavaScript```
 
 * Blender 3D
   - Modeling and CG
   - Animation and Rigging
 
-* Unity Game Dev
-
 * Open Source
 
-* Speed Typing
+* Monkeytype clacker
 
 * Linux Admin
-   - ```Ubuntu and Pop!_OS```
+   - ```Debian Based Systems```
    - ```Samba```
    - ```NFS```
    - ```OpenMediaVault```
    - ```Lamp Stack```
-   - ```Raspberry Pi```
