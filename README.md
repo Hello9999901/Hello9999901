@@ -15,3 +15,5 @@ Web Development Work [React, Next, Astro, Svelte, Tailwind, and of course HTML/C
 * https://exetercoursemap.vercel.app
 * https://www.artstudio23.com
 * https://www.liuyangolf.com
+
+~ Top 1000 fastest on monkeytype.com with 190.4 WPM 15s
