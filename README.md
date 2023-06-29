@@ -16,4 +16,8 @@ Web Development Work [React, Next, Astro, Svelte, Tailwind, and of course HTML/C
 * https://www.artstudio23.com
 * https://www.liuyangolf.com
 
-~ Top 1000 fastest on monkeytype.com with 190.4 WPM 15s
+~ Top 1000 fastest on monkeytype.com with 190.4 WPM 15s (200.8 raw)
+
+Langs (not that it matters): HTML/CSS/JS, C/C++, Java, Rust
+
+Tools: Visual Studio Code, IntelliJ Suite, Vim, KiCad, FreeCAD, Onshape, Blender, Davinci Resolve, Alacritty, ImHex, STM32Cube Suite, OrcaSlicer
