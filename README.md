@@ -1,6 +1,6 @@
-# Hi, Byran here
+# Hi!
 
-### EE, Embedded/Reverse Engineering, 3D Printing, Full Stack Dev, 3D Graphics and avid macOS/Vim user
+### EE, Robotics/Embedded SWE, Embedded/Reverse Engineering, 3D Printing, Full Stack Dev, 3D Graphics
 
 Working on highly integrated robotics applications and intuitive human interface devices. ARM MCUs, RF design, power delivery, embedded + IoT, high speed data transfer.
 
