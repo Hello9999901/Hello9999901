@@ -2,6 +2,10 @@
 
 ### EE, Robotics/Embedded SWE, Embedded/Reverse Engineering, 3D Printing, Full Stack Dev, 3D Graphics
 
+![](https://komarev.com/ghpvc/?username=Hello9999901)
+
+*Since 06.06.2024*
+
 Working on highly integrated robotics applications and intuitive human interface devices. ARM MCUs, RF design, power delivery, embedded + IoT, high speed data transfer.
 
 Web Development Work [React, Next, Astro, Svelte, Tailwind, and of course HTML/CSS/JS]:
