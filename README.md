@@ -19,7 +19,7 @@ Web Development Work [React, Next, Astro, Svelte, Tailwind, and of course HTML/C
 * https://exetercoursemap.vercel.app
 * https://www.artstudio23.org
 
-~ Top 1000 fastest on monkeytype.com with 190.4 WPM 15s (200.8 raw)
+Top 0.48% on monkeytype.com with 191 wpm 15s
 
 Langs (not that it matters): HTML/CSS/JS, C/C++, Java, Python
 
